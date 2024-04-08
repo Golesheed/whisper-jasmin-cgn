@@ -8,3 +8,5 @@ Make sure you have JASMIN-CGN downloaded (download from here: [https://taalmater
 -  Then you need to make the data into 30 second chunks (use https://github.com/Golesheed/whisper-jasmin-cgn/blob/main/split%20split.ipynb)
 -  You need to make a csv from the ort files! (https://github.com/Golesheed/whisper-jasmin-cgn/blob/main/addsentencetocsv.ipynb) and convert to UTF-8 (https://github.com/Golesheed/whisper-jasmin-cgn/blob/main/utf8er.ipynb)
 -  divide your datasets (https://github.com/Golesheed/whisper-jasmin-cgn/blob/main/datasetpp.ipynb)
+- NOW WE CAN TRAIN
+- AND TEST!
